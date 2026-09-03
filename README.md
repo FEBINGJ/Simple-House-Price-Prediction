@@ -87,3 +87,7 @@ Run the program again to see the prediction for a different house size. You can 
 ## Important Limitation
 
 This is an educational example, not a real house valuation system. The dataset is tiny, fictional, and uses only house size. Real predictions would need much more data and other factors such as location, age, number of rooms, condition, and market changes.
+
+
+
+Git push
